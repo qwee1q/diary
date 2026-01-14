@@ -25,3 +25,8 @@
   - View total number of students and teachers
 ----------------------------------------------
 
+# Commands
+- composer install
+- php artisan key:generate
+- php artisan migrate --seed
+- php artisan serve
